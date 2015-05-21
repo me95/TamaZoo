@@ -1,7 +1,7 @@
 package It.unibs.tama;
 
 /**
- * Implementazxione del TamaTriste
+ * Implementazione del TamaTriste
  * @author Tiziano Fapanni & Andrea Simaz
  *
  */
